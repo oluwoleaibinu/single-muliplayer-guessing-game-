@@ -1,0 +1,270 @@
+May 17, 2019 6:38:21 PM core.GameCallbackLogger PLAYER_SIGNED_UP
+INFO: Player wally signed up.
+
+May 17, 2019 6:38:41 PM core.GameCallbackLogger SECRET_CODE_GENERATED
+INFO: Generated secret code is 1
+May 17, 2019 6:38:41 PM core.GameCallbackLogger ROUND_STARTED
+INFO: New round started.
+Players:
+1. wally
+
+May 17, 2019 6:38:52 PM core.GameCallbackLogger PLAYER_SIGNED_UP
+INFO: Player al signed up.
+
+May 17, 2019 6:39:12 PM core.GameCallbackLogger ROUND_STARTED
+INFO: New round started.
+Players:
+1. wally
+
+May 17, 2019 6:39:15 PM core.GameCallbackLogger PLAYER_SIGNED_UP
+INFO: Player nn signed up.
+
+May 17, 2019 6:39:15 PM core.GameCallbackLogger ROUND_STARTED
+INFO: New round started.
+Players:
+1. wally
+2. al
+
+May 17, 2019 6:39:40 PM core.GameCallbackLogger GUESS_ADDED
+INFO: Player nn guessed 3
+
+May 17, 2019 6:39:40 PM core.GameCallbackLogger INCORRECT_GUESS
+INFO: Player nn guesses higher than generated number
+May 17, 2019 6:39:42 PM core.GameCallbackLogger GUESS_ADDED
+INFO: Player nn guessed 4
+
+May 17, 2019 6:39:42 PM core.GameCallbackLogger INCORRECT_GUESS
+INFO: Player nn guesses higher than generated number
+May 17, 2019 6:39:52 PM core.GameCallbackLogger GUESS_ADDED
+INFO: Player al guessed 5
+
+May 17, 2019 6:39:52 PM core.GameCallbackLogger INCORRECT_GUESS
+INFO: Player al guesses higher than generated number
+May 17, 2019 6:39:54 PM core.GameCallbackLogger GUESS_ADDED
+INFO: Player al guessed 3
+
+May 17, 2019 6:39:54 PM core.GameCallbackLogger INCORRECT_GUESS
+INFO: Player al guesses higher than generated number
+May 17, 2019 6:39:57 PM core.GameCallbackLogger GUESS_ADDED
+INFO: Player wally guessed 5
+
+May 17, 2019 6:39:57 PM core.GameCallbackLogger INCORRECT_GUESS
+INFO: Player wally guesses higher than generated number
+May 17, 2019 6:39:58 PM core.GameCallbackLogger GUESS_ADDED
+INFO: Player wally guessed 6
+
+May 17, 2019 6:39:58 PM core.GameCallbackLogger INCORRECT_GUESS
+INFO: Player wally guesses higher than generated number
+May 17, 2019 6:39:59 PM core.GameCallbackLogger GUESS_ADDED
+INFO: Player wally guessed 3
+
+May 17, 2019 6:39:59 PM core.GameCallbackLogger INCORRECT_GUESS
+INFO: Player wally guesses higher than generated number
+May 17, 2019 6:40:00 PM core.GameCallbackLogger GUESS_ADDED
+INFO: Player wally guessed 22
+
+May 17, 2019 6:40:00 PM core.GameCallbackLogger INCORRECT_GUESS
+INFO: Player wally guesses not between 0-9
+May 17, 2019 6:40:00 PM core.GameCallbackLogger PLAYER_LOST
+INFO: Player wally lost the round. The secret code was 1
+
+May 17, 2019 6:40:03 PM core.GameCallbackLogger GUESS_ADDED
+INFO: Player al guessed 4
+
+May 17, 2019 6:40:03 PM core.GameCallbackLogger INCORRECT_GUESS
+INFO: Player al guesses higher than generated number
+May 17, 2019 6:40:04 PM core.GameCallbackLogger GUESS_ADDED
+INFO: Player al guessed 3
+
+May 17, 2019 6:40:04 PM core.GameCallbackLogger INCORRECT_GUESS
+INFO: Player al guesses higher than generated number
+May 17, 2019 6:40:04 PM core.GameCallbackLogger PLAYER_LOST
+INFO: Player al lost the round. The secret code was 1
+
+May 17, 2019 6:40:07 PM core.GameCallbackLogger GUESS_ADDED
+INFO: Player nn guessed 32
+
+May 17, 2019 6:40:07 PM core.GameCallbackLogger INCORRECT_GUESS
+INFO: Player nn guesses not between 0-9
+May 17, 2019 6:40:09 PM core.GameCallbackLogger GUESS_ADDED
+INFO: Player nn guessed 2
+
+May 17, 2019 6:40:09 PM core.GameCallbackLogger INCORRECT_GUESS
+INFO: Player nn guesses higher than generated number
+May 17, 2019 6:40:09 PM core.GameCallbackLogger PLAYER_LOST
+INFO: Player nn lost the round. The secret code was 1
+
+May 17, 2019 6:40:09 PM core.GameCallbackLogger ROUND_ENDED
+INFO: Round ended. 
+WINNERS: 
+ * There are no winners for this round *
+LOSERS: 
+ - wally
+ - al
+ - nn
+FORFEITED: 
+ * There are no players forfeited for this round *
+
+May 17, 2019 6:40:09 PM core.GameCallbackLogger ROUND_ENDED
+INFO: Round ended. 
+WINNERS: 
+ * There are no winners for this round *
+LOSERS: 
+ - wally
+ - al
+ - nn
+FORFEITED: 
+ * There are no players forfeited for this round *
+
+May 17, 2019 6:40:09 PM core.GameCallbackLogger ROUND_ENDED
+INFO: Round ended. 
+WINNERS: 
+ * There are no winners for this round *
+LOSERS: 
+ - wally
+ - al
+ - nn
+FORFEITED: 
+ * There are no players forfeited for this round *
+
+May 17, 2019 6:40:35 PM core.GameCallbackLogger PLAYER_QUITED
+INFO: Player wally chosen to quit the game.
+
+May 17, 2019 6:40:35 PM core.GameCallbackLogger SECRET_CODE_GENERATED
+INFO: Generated secret code is 5
+May 17, 2019 6:40:35 PM core.GameCallbackLogger ROUND_STARTED
+INFO: New round started.
+Players:
+1. al
+2. nn
+
+May 17, 2019 6:40:55 PM core.GameCallbackLogger ROUND_STARTED
+INFO: New round started.
+Players:
+1. al
+2. nn
+
+May 17, 2019 6:42:06 PM core.GameCallbackLogger PLAYER_SIGNED_UP
+INFO: Player wally signed up.
+
+May 17, 2019 6:42:06 PM core.GameCallbackLogger ROUND_STARTED
+INFO: New round started.
+Players:
+1. al
+2. nn
+
+May 17, 2019 6:42:32 PM core.GameCallbackLogger PLAYER_SIGNED_UP
+INFO: Player null signed up.
+
+May 17, 2019 6:42:32 PM core.GameCallbackLogger ROUND_STARTED
+INFO: New round started.
+Players:
+1. al
+2. nn
+3. wally
+
+May 17, 2019 6:42:32 PM core.GameCallbackLogger GUESS_ADDED
+INFO: Player null guessed null
+
+May 19, 2019 9:53:58 PM core.GameCallbackLogger PLAYER_SIGNED_UP
+INFO: Player alex signed up.
+
+May 19, 2019 9:54:18 PM core.GameCallbackLogger SECRET_CODE_GENERATED
+INFO: Generated secret code is 7
+May 19, 2019 9:54:18 PM core.GameCallbackLogger ROUND_STARTED
+INFO: New round started.
+Players:
+1. alex
+
+May 19, 2019 9:55:49 PM core.GameCallbackLogger PLAYER_SIGNED_UP
+INFO: Player temmy signed up.
+
+May 19, 2019 9:56:09 PM core.GameCallbackLogger ROUND_STARTED
+INFO: New round started.
+Players:
+1. alex
+
+May 19, 2019 9:58:00 PM core.GameCallbackLogger PLAYER_SIGNED_UP
+INFO: Player henry signed up.
+
+May 19, 2019 9:58:00 PM core.GameCallbackLogger ROUND_STARTED
+INFO: New round started.
+Players:
+1. alex
+2. temmy
+
+May 19, 2019 9:58:06 PM core.GameCallbackLogger GUESS_ADDED
+INFO: Player alex guessed 4
+
+May 19, 2019 9:58:06 PM core.GameCallbackLogger INCORRECT_GUESS
+INFO: Player alex guesses lower than generated number
+May 19, 2019 9:58:08 PM core.GameCallbackLogger GUESS_ADDED
+INFO: Player alex guessed 6
+
+May 19, 2019 9:58:08 PM core.GameCallbackLogger INCORRECT_GUESS
+INFO: Player alex guesses lower than generated number
+May 19, 2019 9:58:09 PM core.GameCallbackLogger GUESS_ADDED
+INFO: Player alex guessed 7
+
+May 19, 2019 9:58:09 PM core.GameCallbackLogger PLAYER_WON
+INFO: Player alex won with 3 attempts
+
+May 19, 2019 9:58:13 PM core.GameCallbackLogger GUESS_ADDED
+INFO: Player temmy guessed 7
+
+May 19, 2019 9:58:13 PM core.GameCallbackLogger PLAYER_WON
+INFO: Player temmy won with 1 attempts
+
+May 19, 2019 9:58:25 PM core.GameCallbackLogger GUESS_ADDED
+INFO: Player henry guessed 3
+
+May 19, 2019 9:58:25 PM core.GameCallbackLogger INCORRECT_GUESS
+INFO: Player henry guesses lower than generated number
+May 19, 2019 9:58:27 PM core.GameCallbackLogger GUESS_ADDED
+INFO: Player henry guessed 1
+
+May 19, 2019 9:58:27 PM core.GameCallbackLogger INCORRECT_GUESS
+INFO: Player henry guesses lower than generated number
+May 19, 2019 9:58:29 PM core.GameCallbackLogger GUESS_ADDED
+INFO: Player henry guessed 4
+
+May 19, 2019 9:58:29 PM core.GameCallbackLogger INCORRECT_GUESS
+INFO: Player henry guesses lower than generated number
+May 19, 2019 9:58:35 PM core.GameCallbackLogger GUESS_ADDED
+INFO: Player henry guessed 9
+
+May 19, 2019 9:58:35 PM core.GameCallbackLogger INCORRECT_GUESS
+INFO: Player henry guesses higher than generated number
+May 19, 2019 9:58:35 PM core.GameCallbackLogger PLAYER_LOST
+INFO: Player henry lost the round. The secret code was 7
+
+May 19, 2019 9:58:35 PM core.GameCallbackLogger ROUND_ENDED
+INFO: Round ended. 
+WINNERS: 
+ 1. temmy (1 guesses)
+ 2. alex (3 guesses)
+LOSERS: 
+ - henry
+FORFEITED: 
+ * There are no players forfeited for this round *
+
+May 19, 2019 9:58:35 PM core.GameCallbackLogger ROUND_ENDED
+INFO: Round ended. 
+WINNERS: 
+ 1. temmy (1 guesses)
+ 2. alex (3 guesses)
+LOSERS: 
+ - henry
+FORFEITED: 
+ * There are no players forfeited for this round *
+
+May 19, 2019 9:58:35 PM core.GameCallbackLogger ROUND_ENDED
+INFO: Round ended. 
+WINNERS: 
+ 1. temmy (1 guesses)
+ 2. alex (3 guesses)
+LOSERS: 
+ - henry
+FORFEITED: 
+ * There are no players forfeited for this round *
+

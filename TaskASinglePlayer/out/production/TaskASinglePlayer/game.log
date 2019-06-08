@@ -1,0 +1,78 @@
+May 09, 2019 1:25:45 AM core.GameCallbackLogger PLAYER_SIGNED_UP
+INFO: Player dfsdfd signed up.
+
+May 09, 2019 1:25:52 AM core.GameCallbackLogger PLAYER_SIGNED_UP
+INFO: Player sdfsdf signed up.
+
+May 09, 2019 1:25:52 AM core.GameCallbackLogger SECRET_CODE_GENERATED
+INFO: Generated secret code is 4
+May 09, 2019 1:25:52 AM core.GameCallbackLogger ROUND_STARTED
+INFO: New round started.
+Players:
+1. dfsdfd
+2. sdfsdf
+
+May 09, 2019 1:25:52 AM core.GameCallbackLogger ROUND_STARTED
+INFO: New round started.
+Players:
+1. dfsdfd
+2. sdfsdf
+
+May 09, 2019 1:25:55 AM core.GameCallbackLogger GUESS_ADDED
+INFO: Player sdfsdf guessed 3
+
+May 09, 2019 1:25:55 AM core.GameCallbackLogger INCORRECT_GUESS
+INFO: Player sdfsdf guesses lower than generated number
+May 09, 2019 1:25:59 AM core.GameCallbackLogger GUESS_ADDED
+INFO: Player sdfsdf guessed 4
+
+May 09, 2019 1:25:59 AM core.GameCallbackLogger PLAYER_WON
+INFO: Player sdfsdf won with 2 attempts
+
+May 09, 2019 1:26:07 AM core.GameCallbackLogger GUESS_ADDED
+INFO: Player dfsdfd guessed 5
+
+May 09, 2019 1:26:07 AM core.GameCallbackLogger INCORRECT_GUESS
+INFO: Player dfsdfd guesses higher than generated number
+May 09, 2019 1:26:09 AM core.GameCallbackLogger GUESS_ADDED
+INFO: Player dfsdfd guessed 7
+
+May 09, 2019 1:26:09 AM core.GameCallbackLogger INCORRECT_GUESS
+INFO: Player dfsdfd guesses higher than generated number
+May 09, 2019 1:26:11 AM core.GameCallbackLogger GUESS_ADDED
+INFO: Player dfsdfd guessed 9
+
+May 09, 2019 1:26:11 AM core.GameCallbackLogger INCORRECT_GUESS
+INFO: Player dfsdfd guesses higher than generated number
+May 09, 2019 1:26:12 AM core.GameCallbackLogger GUESS_ADDED
+INFO: Player dfsdfd guessed 2
+
+May 09, 2019 1:26:12 AM core.GameCallbackLogger INCORRECT_GUESS
+INFO: Player dfsdfd guesses lower than generated number
+May 09, 2019 1:26:12 AM core.GameCallbackLogger PLAYER_LOST
+INFO: Player dfsdfd lost the round. The secret code was 4
+
+May 09, 2019 1:26:12 AM core.GameCallbackLogger ROUND_ENDED
+INFO: Round ended. 
+WINNERS: 
+ 1. sdfsdf (2 guesses)
+LOSERS: 
+ - dfsdfd
+FORFEITED: 
+ * There are no players forfeited for this round *
+
+May 09, 2019 1:26:12 AM core.GameCallbackLogger ROUND_ENDED
+INFO: Round ended. 
+WINNERS: 
+ 1. sdfsdf (2 guesses)
+LOSERS: 
+ - dfsdfd
+FORFEITED: 
+ * There are no players forfeited for this round *
+
+May 09, 2019 1:26:15 AM core.GameCallbackLogger PLAYER_QUITED
+INFO: Player dfsdfd chosen to quit the game.
+
+May 09, 2019 1:26:20 AM core.GameCallbackLogger PLAYER_QUITED
+INFO: Player sdfsdf chosen to quit the game.
+

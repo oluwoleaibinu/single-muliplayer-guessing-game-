@@ -1,0 +1,258 @@
+May 16, 2019 4:46:06 AM server.ServerCallback SERVER_STARTED
+INFO: Server started on port 15376
+May 17, 2019 5:56:06 PM server.ServerCallback SERVER_STARTED
+INFO: Server started on port 15376
+May 17, 2019 5:57:28 PM server.ServerCallback CLIENT_CONNECTED
+INFO: Client /127.0.0.1 connected.
+May 17, 2019 5:57:28 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your name: 
+May 17, 2019 5:57:31 PM server.ServerCallback CLIENT_REPLIED
+INFO: /127.0.0.1: wally
+
+May 17, 2019 5:57:32 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your guess: 
+May 17, 2019 5:57:38 PM server.ServerCallback CLIENT_REPLIED
+INFO: /127.0.0.1: 4
+
+May 17, 2019 5:57:38 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your guess: 
+May 17, 2019 5:57:39 PM server.ServerCallback CLIENT_REPLIED
+INFO: /127.0.0.1: 5
+
+May 17, 2019 5:57:39 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your guess: 
+May 17, 2019 5:57:42 PM server.ServerCallback CLIENT_REPLIED
+INFO: /127.0.0.1: 3
+
+May 17, 2019 5:57:42 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your guess: 
+May 17, 2019 5:57:43 PM server.ServerCallback CLIENT_REPLIED
+INFO: /127.0.0.1: 2
+
+May 17, 2019 5:57:43 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Press (p) to continue to play, or (q) to quit: 
+May 17, 2019 6:05:02 PM server.ServerCallback CLIENT_REPLIED
+INFO: /127.0.0.1: null
+
+May 17, 2019 6:05:02 PM server.ServerCallback CLIENT_DISCONNECTED
+INFO: CLIENT DISCONNECTED: /127.0.0.1 disconnected.
+May 17, 2019 6:28:53 PM server.ServerCallback SERVER_STARTED
+INFO: Server started on port 15376
+May 17, 2019 6:29:42 PM server.ServerCallback CLIENT_CONNECTED
+INFO: Client /127.0.0.1 connected.
+May 17, 2019 6:29:42 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your name: 
+May 17, 2019 6:30:02 PM server.ServerCallback CLIENT_REPLIED
+INFO: /127.0.0.1: wally
+
+May 17, 2019 6:30:02 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your guess: 
+May 17, 2019 6:30:08 PM server.ServerCallback CLIENT_REPLIED
+INFO: /127.0.0.1: 3
+
+May 17, 2019 6:30:08 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your guess: 
+May 17, 2019 6:30:08 PM server.ServerCallback CLIENT_REPLIED
+INFO: /127.0.0.1: 3
+
+May 17, 2019 6:30:08 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your guess: 
+May 17, 2019 6:30:09 PM server.ServerCallback CLIENT_REPLIED
+INFO: /127.0.0.1: 4
+
+May 17, 2019 6:30:09 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your guess: 
+May 17, 2019 6:30:10 PM server.ServerCallback CLIENT_REPLIED
+INFO: /127.0.0.1: 4
+
+May 17, 2019 6:30:10 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Press (p) to continue to play, or (q) to quit: 
+May 17, 2019 6:30:15 PM server.ServerCallback CLIENT_REPLIED
+INFO: /127.0.0.1: q
+
+May 17, 2019 6:30:15 PM server.ServerCallback CLIENT_DISCONNECTED
+INFO: CLIENT DISCONNECTED: /127.0.0.1 disconnected.
+May 19, 2019 9:24:08 PM server.ServerCallback SERVER_STARTED
+INFO: Server started on port 61995
+May 19, 2019 9:25:35 PM server.ServerCallback CLIENT_CONNECTED
+INFO: Client /10.102.128.22 connected.
+May 19, 2019 9:25:35 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your name: 
+May 19, 2019 9:26:29 PM server.ServerCallback CLIENT_REPLIED
+INFO: /10.102.128.22: wally
+
+May 19, 2019 9:26:29 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your guess: 
+May 19, 2019 9:27:24 PM server.ServerCallback CLIENT_REPLIED
+INFO: /10.102.128.22: 4
+
+May 19, 2019 9:27:24 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your guess: 
+May 19, 2019 9:27:26 PM server.ServerCallback CLIENT_REPLIED
+INFO: /10.102.128.22: 3
+
+May 19, 2019 9:27:26 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your guess: 
+May 19, 2019 9:27:27 PM server.ServerCallback CLIENT_REPLIED
+INFO: /10.102.128.22: 6
+
+May 19, 2019 9:27:27 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your guess: 
+May 19, 2019 9:27:29 PM server.ServerCallback CLIENT_REPLIED
+INFO: /10.102.128.22: 8
+
+May 19, 2019 9:27:29 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Press (p) to continue to play, or (q) to quit: 
+May 19, 2019 9:28:08 PM server.ServerCallback CLIENT_REPLIED
+INFO: /10.102.128.22: p
+
+May 19, 2019 9:28:08 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your guess: 
+May 19, 2019 9:28:12 PM server.ServerCallback CLIENT_REPLIED
+INFO: /10.102.128.22: 6
+
+May 19, 2019 9:28:12 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your guess: 
+May 19, 2019 9:28:13 PM server.ServerCallback CLIENT_REPLIED
+INFO: /10.102.128.22: 7
+
+May 19, 2019 9:28:13 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your guess: 
+May 19, 2019 9:28:14 PM server.ServerCallback CLIENT_REPLIED
+INFO: /10.102.128.22: 7
+
+May 19, 2019 9:28:14 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your guess: 
+May 19, 2019 9:28:18 PM server.ServerCallback CLIENT_REPLIED
+INFO: /10.102.128.22: 4
+
+May 19, 2019 9:28:18 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Press (p) to continue to play, or (q) to quit: 
+May 19, 2019 9:28:20 PM server.ServerCallback CLIENT_REPLIED
+INFO: /10.102.128.22: p
+
+May 19, 2019 9:28:20 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your guess: 
+May 19, 2019 9:28:20 PM server.ServerCallback CLIENT_REPLIED
+INFO: /10.102.128.22: 
+
+May 19, 2019 9:28:20 PM server.ServerCallback CLIENT_DISCONNECTED
+INFO: CLIENT DISCONNECTED: /10.102.128.22 disconnected.
+May 19, 2019 9:28:20 PM server.ServerCallback CLIENT_DISCONNECTED
+INFO: CLIENT DISCONNECTED: /10.102.128.22 disconnected.
+May 19, 2019 9:28:20 PM server.ServerCallback CLIENT_DISCONNECTED
+INFO: CLIENT DISCONNECTED: /10.102.128.22 disconnected.
+May 19, 2019 9:28:34 PM server.ServerCallback CLIENT_CONNECTED
+INFO: Client /10.102.128.22 connected.
+May 19, 2019 9:28:34 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your name: 
+May 19, 2019 9:28:41 PM server.ServerCallback CLIENT_REPLIED
+INFO: /10.102.128.22: wally
+
+May 19, 2019 9:28:41 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your guess: 
+May 19, 2019 9:28:47 PM server.ServerCallback CLIENT_REPLIED
+INFO: /10.102.128.22: 5
+
+May 19, 2019 9:28:47 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your guess: 
+May 19, 2019 9:29:08 PM server.ServerCallback CLIENT_REPLIED
+INFO: /10.102.128.22: 6
+
+May 19, 2019 9:29:08 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your guess: 
+May 19, 2019 9:29:15 PM server.ServerCallback CLIENT_REPLIED
+INFO: /10.102.128.22: 4
+
+May 19, 2019 9:29:15 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your guess: 
+May 19, 2019 9:29:18 PM server.ServerCallback CLIENT_REPLIED
+INFO: /10.102.128.22: 8
+
+May 19, 2019 9:29:18 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your guess: 
+May 19, 2019 9:29:24 PM server.ServerCallback CLIENT_REPLIED
+INFO: /10.102.128.22: 4
+
+May 19, 2019 9:29:24 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your guess: 
+May 19, 2019 9:29:26 PM server.ServerCallback CLIENT_REPLIED
+INFO: /10.102.128.22: 3
+
+May 19, 2019 9:29:26 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your guess: 
+May 19, 2019 9:29:27 PM server.ServerCallback CLIENT_REPLIED
+INFO: /10.102.128.22: 2
+
+May 19, 2019 9:29:27 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your guess: 
+May 19, 2019 9:29:28 PM server.ServerCallback CLIENT_REPLIED
+INFO: /10.102.128.22: 21
+
+May 19, 2019 9:29:28 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your guess: 
+May 19, 2019 9:29:31 PM server.ServerCallback CLIENT_REPLIED
+INFO: /10.102.128.22: 2
+
+May 19, 2019 9:29:31 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your guess: 
+May 19, 2019 9:29:32 PM server.ServerCallback CLIENT_REPLIED
+INFO: /10.102.128.22: [14~
+
+May 19, 2019 9:29:32 PM server.ServerCallback CLIENT_DISCONNECTED
+INFO: CLIENT DISCONNECTED: /10.102.128.22 disconnected.
+May 19, 2019 9:30:08 PM server.ServerCallback CLIENT_CONNECTED
+INFO: Client /10.102.128.22 connected.
+May 19, 2019 9:30:08 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your name: 
+May 19, 2019 9:30:13 PM server.ServerCallback CLIENT_REPLIED
+INFO: /10.102.128.22: wally
+
+May 19, 2019 9:30:13 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your guess: 
+May 19, 2019 9:30:19 PM server.ServerCallback CLIENT_REPLIED
+INFO: /10.102.128.22: 4
+
+May 19, 2019 9:30:19 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your guess: 
+May 19, 2019 9:30:25 PM server.ServerCallback CLIENT_REPLIED
+INFO: /10.102.128.22: 6
+
+May 19, 2019 9:30:25 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your guess: 
+May 19, 2019 9:31:02 PM server.ServerCallback CLIENT_REPLIED
+INFO: /10.102.128.22: 5
+
+May 19, 2019 9:31:02 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your guess: 
+May 19, 2019 9:31:05 PM server.ServerCallback CLIENT_REPLIED
+INFO: /10.102.128.22: 3
+
+May 19, 2019 9:31:05 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Press (p) to continue to play, or (q) to quit: 
+May 19, 2019 9:31:54 PM server.ServerCallback CLIENT_REPLIED
+INFO: /10.102.128.22: p
+
+May 19, 2019 9:31:54 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your guess: 
+May 19, 2019 9:31:56 PM server.ServerCallback CLIENT_REPLIED
+INFO: /10.102.128.22: 5
+
+May 19, 2019 9:31:56 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your guess: 
+May 19, 2019 9:34:05 PM server.ServerCallback CLIENT_REPLIED
+INFO: /10.102.128.22: 7
+
+May 19, 2019 9:34:05 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Press (p) to continue to play, or (q) to quit: 
+May 19, 2019 9:34:09 PM server.ServerCallback CLIENT_REPLIED
+INFO: /10.102.128.22: q
+
+May 19, 2019 9:34:09 PM server.ServerCallback CLIENT_DISCONNECTED
+INFO: CLIENT DISCONNECTED: /10.102.128.22 disconnected.
+May 19, 2019 9:34:09 PM server.ServerCallback CLIENT_DISCONNECTED
+INFO: CLIENT DISCONNECTED: /10.102.128.22 disconnected.
+May 19, 2019 10:13:59 PM server.ServerCallback SERVER_STARTED
+INFO: Server started on port 61995
+May 19, 2019 10:14:33 PM server.ServerCallback SERVER_STARTED
+INFO: Server started on port 61995

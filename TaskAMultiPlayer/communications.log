@@ -1,0 +1,243 @@
+May 17, 2019 6:37:54 PM server.ServerCallback SERVER_STARTED
+INFO: Server started on port 15376
+May 17, 2019 6:38:17 PM server.ServerCallback CLIENT_CONNECTED
+INFO: Client /127.0.0.1 connected.
+May 17, 2019 6:38:17 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your name: 
+May 17, 2019 6:38:21 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Waiting for other players...
+May 17, 2019 6:38:41 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your guess: 
+May 17, 2019 6:38:44 PM server.ServerCallback CLIENT_CONNECTED
+INFO: Client /127.0.0.1 connected.
+May 17, 2019 6:38:44 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your name: 
+May 17, 2019 6:38:52 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Waiting for other players...
+May 17, 2019 6:39:12 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your guess: 
+May 17, 2019 6:39:13 PM server.ServerCallback CLIENT_CONNECTED
+INFO: Client /127.0.0.1 connected.
+May 17, 2019 6:39:13 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your name: 
+May 17, 2019 6:39:15 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: minimum number of players needed fulfilled
+May 17, 2019 6:39:15 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your guess: 
+May 17, 2019 6:39:40 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your guess: 
+May 17, 2019 6:39:42 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your guess: 
+May 17, 2019 6:39:52 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your guess: 
+May 17, 2019 6:39:54 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your guess: 
+May 17, 2019 6:39:57 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your guess: 
+May 17, 2019 6:39:58 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your guess: 
+May 17, 2019 6:39:59 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your guess: 
+May 17, 2019 6:40:00 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Wait for other players to finish...
+May 17, 2019 6:40:03 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your guess: 
+May 17, 2019 6:40:04 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Wait for other players to finish...
+May 17, 2019 6:40:07 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your guess: 
+May 17, 2019 6:40:09 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Press (p) to continue to play, or (q) to quit: 
+May 17, 2019 6:40:09 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Press (p) to continue to play, or (q) to quit: 
+May 17, 2019 6:40:09 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Press (p) to continue to play, or (q) to quit: 
+May 17, 2019 6:40:23 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Please wait for other players to finish before next round begins...
+May 17, 2019 6:40:30 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Please wait for other players to finish before next round begins...
+May 17, 2019 6:40:35 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Waiting for other players...
+May 17, 2019 6:40:35 PM server.ServerCallback CLIENT_DISCONNECTED
+INFO: CLIENT DISCONNECTED: /127.0.0.1 disconnected.
+May 17, 2019 6:40:35 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Waiting for other players...
+May 17, 2019 6:40:35 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your guess: 
+May 17, 2019 6:40:40 PM server.ServerCallback CLIENT_CONNECTED
+INFO: Client /127.0.0.1 connected.
+May 17, 2019 6:40:40 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your name: 
+May 17, 2019 6:40:55 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your guess: 
+May 17, 2019 6:41:58 PM server.ServerCallback CLIENT_CONNECTED
+INFO: Client /127.0.0.1 connected.
+May 17, 2019 6:41:58 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your name: 
+May 17, 2019 6:42:06 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: minimum number of players needed fulfilled
+May 17, 2019 6:42:06 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your guess: 
+May 17, 2019 6:42:32 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: minimum number of players needed fulfilled
+May 17, 2019 6:42:32 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your guess: 
+May 17, 2019 6:42:32 PM server.ServerCallback EXCEPTION_THROWN
+SEVERE: null
+java.lang.NullPointerException
+	at server.ServerProcess.readline(ServerProcess.java:299)
+	at server.ServerProcess.readline(ServerProcess.java:271)
+	at server.ServerProcess.run(ServerProcess.java:120)
+	at java.lang.Thread.run(Thread.java:748)
+
+May 17, 2019 6:42:32 PM server.ServerCallback EXCEPTION_THROWN
+SEVERE: For input string: "null"
+java.lang.NumberFormatException: For input string: "null"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.lang.Integer.parseInt(Integer.java:580)
+	at java.lang.Integer.parseInt(Integer.java:615)
+	at core.GameRound.isInvalidRangeGuess(GameRound.java:221)
+	at core.GameManager.addGuess(GameManager.java:200)
+	at server.ServerProcess.run(ServerProcess.java:121)
+	at java.lang.Thread.run(Thread.java:748)
+
+May 17, 2019 6:42:32 PM server.ServerCallback CLIENT_DISCONNECTED
+INFO: CLIENT DISCONNECTED: /127.0.0.1 disconnected.
+May 17, 2019 6:42:32 PM server.ServerCallback CLIENT_DISCONNECTED
+INFO: CLIENT DISCONNECTED: /127.0.0.1 disconnected.
+May 17, 2019 6:42:36 PM server.ServerCallback EXCEPTION_THROWN
+SEVERE: null
+java.lang.NullPointerException
+	at server.ServerProcess.readline(ServerProcess.java:299)
+	at server.ServerProcess.readline(ServerProcess.java:271)
+	at server.ServerProcess.run(ServerProcess.java:120)
+	at server.ServerProcess.run(ServerProcess.java:185)
+	at java.lang.Thread.run(Thread.java:748)
+
+May 17, 2019 6:42:36 PM server.ServerCallback CLIENT_DISCONNECTED
+INFO: CLIENT DISCONNECTED: /127.0.0.1 disconnected.
+May 17, 2019 6:42:36 PM server.ServerCallback CLIENT_DISCONNECTED
+INFO: CLIENT DISCONNECTED: /127.0.0.1 disconnected.
+May 19, 2019 9:48:55 PM server.ServerCallback SERVER_STARTED
+INFO: Server started on port 61995
+May 19, 2019 9:53:49 PM server.ServerCallback CLIENT_CONNECTED
+INFO: Client /10.102.128.22 connected.
+May 19, 2019 9:53:49 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your name: 
+May 19, 2019 9:53:58 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Waiting for other players...
+May 19, 2019 9:54:18 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your guess: 
+May 19, 2019 9:55:45 PM server.ServerCallback CLIENT_CONNECTED
+INFO: Client /10.102.128.22 connected.
+May 19, 2019 9:55:45 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your name: 
+May 19, 2019 9:55:49 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Waiting for other players...
+May 19, 2019 9:56:09 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your guess: 
+May 19, 2019 9:57:57 PM server.ServerCallback CLIENT_CONNECTED
+INFO: Client /10.102.128.22 connected.
+May 19, 2019 9:57:57 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your name: 
+May 19, 2019 9:58:00 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: minimum number of players needed fulfilled
+May 19, 2019 9:58:00 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your guess: 
+May 19, 2019 9:58:06 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your guess: 
+May 19, 2019 9:58:08 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your guess: 
+May 19, 2019 9:58:09 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Wait for other players to finish...
+May 19, 2019 9:58:13 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Wait for other players to finish...
+May 19, 2019 9:58:25 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your guess: 
+May 19, 2019 9:58:27 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your guess: 
+May 19, 2019 9:58:29 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your guess: 
+May 19, 2019 9:58:35 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Press (p) to continue to play, or (q) to quit: 
+May 19, 2019 9:58:35 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Press (p) to continue to play, or (q) to quit: 
+May 19, 2019 9:58:35 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Press (p) to continue to play, or (q) to quit: 
+May 19, 2019 9:58:35 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: ERROR: Please enter 'p' or 'q'.
+May 19, 2019 9:58:35 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Press (p) to continue to play, or (q) to quit: 
+May 19, 2019 10:09:44 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: ERROR: Please enter 'p' or 'q'.
+May 19, 2019 10:09:44 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Press (p) to continue to play, or (q) to quit: 
+May 19, 2019 10:09:44 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: ERROR: Please enter 'p' or 'q'.
+May 19, 2019 10:09:44 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Press (p) to continue to play, or (q) to quit: 
+May 19, 2019 10:09:44 PM server.ServerCallback EXCEPTION_THROWN
+SEVERE: Connection reset
+java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:210)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:284)
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:326)
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178)
+	at java.io.InputStreamReader.read(InputStreamReader.java:184)
+	at java.io.BufferedReader.fill(BufferedReader.java:161)
+	at java.io.BufferedReader.readLine(BufferedReader.java:324)
+	at java.io.BufferedReader.readLine(BufferedReader.java:389)
+	at server.ServerProcess.readline(ServerProcess.java:291)
+	at server.ServerProcess.continueOrQuit(ServerProcess.java:216)
+	at server.ServerProcess.continueOrQuit(ServerProcess.java:226)
+	at server.ServerProcess.continueOrQuit(ServerProcess.java:226)
+	at server.ServerProcess.continueOrQuit(ServerProcess.java:226)
+	at server.ServerProcess.run(ServerProcess.java:155)
+	at java.lang.Thread.run(Thread.java:748)
+
+May 19, 2019 10:09:44 PM server.ServerCallback CLIENT_DISCONNECTED
+INFO: CLIENT DISCONNECTED: /10.102.128.22 disconnected.
+May 19, 2019 10:10:54 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: ERROR: Please enter non empty input.
+May 19, 2019 10:10:54 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Press (p) to continue to play, or (q) to quit: 
+May 19, 2019 10:12:17 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: ERROR: Please enter 'p' or 'q'.
+May 19, 2019 10:12:17 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Press (p) to continue to play, or (q) to quit: 
+May 19, 2019 10:12:17 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: ERROR: Please enter 'p' or 'q'.
+May 19, 2019 10:12:17 PM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Press (p) to continue to play, or (q) to quit: 
+May 19, 2019 10:12:17 PM server.ServerCallback EXCEPTION_THROWN
+SEVERE: Connection reset
+java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:210)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:284)
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:326)
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178)
+	at java.io.InputStreamReader.read(InputStreamReader.java:184)
+	at java.io.BufferedReader.fill(BufferedReader.java:161)
+	at java.io.BufferedReader.readLine(BufferedReader.java:324)
+	at java.io.BufferedReader.readLine(BufferedReader.java:389)
+	at server.ServerProcess.readline(ServerProcess.java:291)
+	at server.ServerProcess.continueOrQuit(ServerProcess.java:216)
+	at server.ServerProcess.continueOrQuit(ServerProcess.java:226)
+	at server.ServerProcess.continueOrQuit(ServerProcess.java:226)
+	at server.ServerProcess.run(ServerProcess.java:155)
+	at java.lang.Thread.run(Thread.java:748)
+
+May 19, 2019 10:12:17 PM server.ServerCallback CLIENT_DISCONNECTED
+INFO: CLIENT DISCONNECTED: /10.102.128.22 disconnected.
+May 19, 2019 10:13:06 PM server.ServerCallback EXCEPTION_THROWN
+SEVERE: null
+java.lang.NullPointerException
+	at server.ServerProcess.readline(ServerProcess.java:294)
+	at server.ServerProcess.continueOrQuit(ServerProcess.java:216)
+	at server.ServerProcess.run(ServerProcess.java:155)
+	at java.lang.Thread.run(Thread.java:748)
+
+May 19, 2019 10:13:06 PM server.ServerCallback CLIENT_DISCONNECTED
+INFO: CLIENT DISCONNECTED: /10.102.128.22 disconnected.

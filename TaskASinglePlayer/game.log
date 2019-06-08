@@ -1,0 +1,238 @@
+May 17, 2019 5:57:32 PM core.GameCallbackLogger PLAYER_SIGNED_UP
+INFO: Player wally signed up.
+
+May 17, 2019 5:57:32 PM core.GameCallbackLogger SECRET_CODE_GENERATED
+INFO: Generated secret code is 1
+May 17, 2019 5:57:32 PM core.GameCallbackLogger ROUND_STARTED
+INFO: New round started
+May 17, 2019 5:57:38 PM core.GameCallbackLogger GUESS_ADDED
+INFO: Player wally guessed 4
+
+May 17, 2019 5:57:38 PM core.GameCallbackLogger INCORRECT_GUESS
+INFO: Player wally guesses higher than generated number
+May 17, 2019 5:57:39 PM core.GameCallbackLogger GUESS_ADDED
+INFO: Player wally guessed 5
+
+May 17, 2019 5:57:39 PM core.GameCallbackLogger INCORRECT_GUESS
+INFO: Player wally guesses higher than generated number
+May 17, 2019 5:57:42 PM core.GameCallbackLogger GUESS_ADDED
+INFO: Player wally guessed 3
+
+May 17, 2019 5:57:42 PM core.GameCallbackLogger INCORRECT_GUESS
+INFO: Player wally guesses higher than generated number
+May 17, 2019 5:57:43 PM core.GameCallbackLogger GUESS_ADDED
+INFO: Player wally guessed 2
+
+May 17, 2019 5:57:43 PM core.GameCallbackLogger INCORRECT_GUESS
+INFO: Player wally guesses higher than generated number
+May 17, 2019 5:57:43 PM core.GameCallbackLogger PLAYER_LOST
+INFO: Player wally lost the round. The secret code was 1
+
+May 17, 2019 5:57:43 PM core.GameCallbackLogger ROUND_ENDED
+INFO: Round ended
+May 17, 2019 6:30:02 PM core.GameCallbackLogger PLAYER_SIGNED_UP
+INFO: Player wally signed up.
+
+May 17, 2019 6:30:02 PM core.GameCallbackLogger SECRET_CODE_GENERATED
+INFO: Generated secret code is 2
+May 17, 2019 6:30:02 PM core.GameCallbackLogger ROUND_STARTED
+INFO: New round started
+May 17, 2019 6:30:08 PM core.GameCallbackLogger GUESS_ADDED
+INFO: Player wally guessed 3
+
+May 17, 2019 6:30:08 PM core.GameCallbackLogger INCORRECT_GUESS
+INFO: Player wally guesses higher than generated number
+May 17, 2019 6:30:08 PM core.GameCallbackLogger GUESS_ADDED
+INFO: Player wally guessed 3
+
+May 17, 2019 6:30:08 PM core.GameCallbackLogger INCORRECT_GUESS
+INFO: Player wally guesses higher than generated number
+May 17, 2019 6:30:09 PM core.GameCallbackLogger GUESS_ADDED
+INFO: Player wally guessed 4
+
+May 17, 2019 6:30:09 PM core.GameCallbackLogger INCORRECT_GUESS
+INFO: Player wally guesses higher than generated number
+May 17, 2019 6:30:10 PM core.GameCallbackLogger GUESS_ADDED
+INFO: Player wally guessed 4
+
+May 17, 2019 6:30:10 PM core.GameCallbackLogger INCORRECT_GUESS
+INFO: Player wally guesses higher than generated number
+May 17, 2019 6:30:10 PM core.GameCallbackLogger PLAYER_LOST
+INFO: Player wally lost the round. The secret code was 2
+
+May 17, 2019 6:30:10 PM core.GameCallbackLogger ROUND_ENDED
+INFO: Round ended
+May 17, 2019 6:30:15 PM core.GameCallbackLogger PLAYER_QUITED
+INFO: Player wally chosen to quit the game.
+
+May 19, 2019 9:26:29 PM core.GameCallbackLogger PLAYER_SIGNED_UP
+INFO: Player wally signed up.
+
+May 19, 2019 9:26:29 PM core.GameCallbackLogger SECRET_CODE_GENERATED
+INFO: Generated secret code is 8
+May 19, 2019 9:26:29 PM core.GameCallbackLogger ROUND_STARTED
+INFO: New round started
+May 19, 2019 9:27:24 PM core.GameCallbackLogger GUESS_ADDED
+INFO: Player wally guessed 4
+
+May 19, 2019 9:27:24 PM core.GameCallbackLogger INCORRECT_GUESS
+INFO: Player wally guesses lower than generated number
+May 19, 2019 9:27:26 PM core.GameCallbackLogger GUESS_ADDED
+INFO: Player wally guessed 3
+
+May 19, 2019 9:27:26 PM core.GameCallbackLogger INCORRECT_GUESS
+INFO: Player wally guesses lower than generated number
+May 19, 2019 9:27:27 PM core.GameCallbackLogger GUESS_ADDED
+INFO: Player wally guessed 6
+
+May 19, 2019 9:27:27 PM core.GameCallbackLogger INCORRECT_GUESS
+INFO: Player wally guesses lower than generated number
+May 19, 2019 9:27:29 PM core.GameCallbackLogger GUESS_ADDED
+INFO: Player wally guessed 8
+
+May 19, 2019 9:27:29 PM core.GameCallbackLogger PLAYER_WON
+INFO: Player wally won with 4 attempts
+
+May 19, 2019 9:27:29 PM core.GameCallbackLogger ROUND_ENDED
+INFO: Round ended
+May 19, 2019 9:28:08 PM core.GameCallbackLogger SECRET_CODE_GENERATED
+INFO: Generated secret code is 5
+May 19, 2019 9:28:08 PM core.GameCallbackLogger ROUND_STARTED
+INFO: New round started
+May 19, 2019 9:28:12 PM core.GameCallbackLogger GUESS_ADDED
+INFO: Player wally guessed 6
+
+May 19, 2019 9:28:12 PM core.GameCallbackLogger INCORRECT_GUESS
+INFO: Player wally guesses higher than generated number
+May 19, 2019 9:28:13 PM core.GameCallbackLogger GUESS_ADDED
+INFO: Player wally guessed 7
+
+May 19, 2019 9:28:13 PM core.GameCallbackLogger INCORRECT_GUESS
+INFO: Player wally guesses higher than generated number
+May 19, 2019 9:28:14 PM core.GameCallbackLogger GUESS_ADDED
+INFO: Player wally guessed 7
+
+May 19, 2019 9:28:14 PM core.GameCallbackLogger INCORRECT_GUESS
+INFO: Player wally guesses higher than generated number
+May 19, 2019 9:28:18 PM core.GameCallbackLogger GUESS_ADDED
+INFO: Player wally guessed 4
+
+May 19, 2019 9:28:18 PM core.GameCallbackLogger INCORRECT_GUESS
+INFO: Player wally guesses lower than generated number
+May 19, 2019 9:28:18 PM core.GameCallbackLogger PLAYER_LOST
+INFO: Player wally lost the round. The secret code was 5
+
+May 19, 2019 9:28:18 PM core.GameCallbackLogger ROUND_ENDED
+INFO: Round ended
+May 19, 2019 9:28:20 PM core.GameCallbackLogger SECRET_CODE_GENERATED
+INFO: Generated secret code is 1
+May 19, 2019 9:28:20 PM core.GameCallbackLogger ROUND_STARTED
+INFO: New round started
+May 19, 2019 9:28:20 PM core.GameCallbackLogger GUESS_ADDED
+INFO: Player wally guessed 
+
+May 19, 2019 9:28:41 PM core.GameCallbackLogger PLAYER_SIGNED_UP
+INFO: Player wally signed up.
+
+May 19, 2019 9:28:41 PM core.GameCallbackLogger ROUND_STARTED
+INFO: New round started
+May 19, 2019 9:28:47 PM core.GameCallbackLogger GUESS_ADDED
+INFO: Player wally guessed 5
+
+May 19, 2019 9:28:47 PM core.GameCallbackLogger INCORRECT_GUESS
+INFO: Player wally guesses higher than generated number
+May 19, 2019 9:29:08 PM core.GameCallbackLogger GUESS_ADDED
+INFO: Player wally guessed 6
+
+May 19, 2019 9:29:08 PM core.GameCallbackLogger INCORRECT_GUESS
+INFO: Player wally guesses higher than generated number
+May 19, 2019 9:29:15 PM core.GameCallbackLogger GUESS_ADDED
+INFO: Player wally guessed 4
+
+May 19, 2019 9:29:15 PM core.GameCallbackLogger INCORRECT_GUESS
+INFO: Player wally guesses higher than generated number
+May 19, 2019 9:29:18 PM core.GameCallbackLogger GUESS_ADDED
+INFO: Player wally guessed 8
+
+May 19, 2019 9:29:18 PM core.GameCallbackLogger INCORRECT_GUESS
+INFO: Player wally guesses higher than generated number
+May 19, 2019 9:29:24 PM core.GameCallbackLogger GUESS_ADDED
+INFO: Player wally guessed 4
+
+May 19, 2019 9:29:24 PM core.GameCallbackLogger INCORRECT_GUESS
+INFO: Player wally guesses higher than generated number
+May 19, 2019 9:29:26 PM core.GameCallbackLogger GUESS_ADDED
+INFO: Player wally guessed 3
+
+May 19, 2019 9:29:26 PM core.GameCallbackLogger INCORRECT_GUESS
+INFO: Player wally guesses higher than generated number
+May 19, 2019 9:29:27 PM core.GameCallbackLogger GUESS_ADDED
+INFO: Player wally guessed 2
+
+May 19, 2019 9:29:27 PM core.GameCallbackLogger INCORRECT_GUESS
+INFO: Player wally guesses higher than generated number
+May 19, 2019 9:29:28 PM core.GameCallbackLogger GUESS_ADDED
+INFO: Player wally guessed 21
+
+May 19, 2019 9:29:28 PM core.GameCallbackLogger INCORRECT_GUESS
+INFO: Player wally guesses in not between 0-9
+May 19, 2019 9:29:31 PM core.GameCallbackLogger GUESS_ADDED
+INFO: Player wally guessed 2
+
+May 19, 2019 9:29:31 PM core.GameCallbackLogger INCORRECT_GUESS
+INFO: Player wally guesses higher than generated number
+May 19, 2019 9:29:32 PM core.GameCallbackLogger GUESS_ADDED
+INFO: Player wally guessed [14~
+
+May 19, 2019 9:30:13 PM core.GameCallbackLogger PLAYER_SIGNED_UP
+INFO: Player wally signed up.
+
+May 19, 2019 9:30:13 PM core.GameCallbackLogger SECRET_CODE_GENERATED
+INFO: Generated secret code is 1
+May 19, 2019 9:30:13 PM core.GameCallbackLogger ROUND_STARTED
+INFO: New round started
+May 19, 2019 9:30:19 PM core.GameCallbackLogger GUESS_ADDED
+INFO: Player wally guessed 4
+
+May 19, 2019 9:30:19 PM core.GameCallbackLogger INCORRECT_GUESS
+INFO: Player wally guesses higher than generated number
+May 19, 2019 9:30:25 PM core.GameCallbackLogger GUESS_ADDED
+INFO: Player wally guessed 6
+
+May 19, 2019 9:30:25 PM core.GameCallbackLogger INCORRECT_GUESS
+INFO: Player wally guesses higher than generated number
+May 19, 2019 9:31:02 PM core.GameCallbackLogger GUESS_ADDED
+INFO: Player wally guessed 5
+
+May 19, 2019 9:31:02 PM core.GameCallbackLogger INCORRECT_GUESS
+INFO: Player wally guesses higher than generated number
+May 19, 2019 9:31:05 PM core.GameCallbackLogger GUESS_ADDED
+INFO: Player wally guessed 3
+
+May 19, 2019 9:31:05 PM core.GameCallbackLogger INCORRECT_GUESS
+INFO: Player wally guesses higher than generated number
+May 19, 2019 9:31:05 PM core.GameCallbackLogger PLAYER_LOST
+INFO: Player wally lost the round. The secret code was 1
+
+May 19, 2019 9:31:05 PM core.GameCallbackLogger ROUND_ENDED
+INFO: Round ended
+May 19, 2019 9:31:54 PM core.GameCallbackLogger SECRET_CODE_GENERATED
+INFO: Generated secret code is 7
+May 19, 2019 9:31:54 PM core.GameCallbackLogger ROUND_STARTED
+INFO: New round started
+May 19, 2019 9:31:56 PM core.GameCallbackLogger GUESS_ADDED
+INFO: Player wally guessed 5
+
+May 19, 2019 9:31:56 PM core.GameCallbackLogger INCORRECT_GUESS
+INFO: Player wally guesses lower than generated number
+May 19, 2019 9:34:05 PM core.GameCallbackLogger GUESS_ADDED
+INFO: Player wally guessed 7
+
+May 19, 2019 9:34:05 PM core.GameCallbackLogger PLAYER_WON
+INFO: Player wally won with 2 attempts
+
+May 19, 2019 9:34:05 PM core.GameCallbackLogger ROUND_ENDED
+INFO: Round ended
+May 19, 2019 9:34:09 PM core.GameCallbackLogger PLAYER_QUITED
+INFO: Player wally chosen to quit the game.
+

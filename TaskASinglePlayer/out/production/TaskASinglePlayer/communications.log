@@ -1,0 +1,36 @@
+May 09, 2019 1:25:32 AM server.ServerCallback SERVER_STARTED
+INFO: Server started on port 15376
+May 09, 2019 1:25:37 AM server.ServerCallback CLIENT_CONNECTED
+INFO: Client /127.0.0.1 connected.
+May 09, 2019 1:25:37 AM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your name: 
+May 09, 2019 1:25:45 AM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Waiting for other players...
+May 09, 2019 1:25:50 AM server.ServerCallback CLIENT_CONNECTED
+INFO: Client /127.0.0.1 connected.
+May 09, 2019 1:25:50 AM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your name: 
+May 09, 2019 1:25:52 AM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your guess: 
+May 09, 2019 1:25:52 AM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your guess: 
+May 09, 2019 1:25:55 AM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your guess: 
+May 09, 2019 1:25:59 AM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Wait for other players to finish...
+May 09, 2019 1:26:07 AM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your guess: 
+May 09, 2019 1:26:09 AM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your guess: 
+May 09, 2019 1:26:11 AM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Enter your guess: 
+May 09, 2019 1:26:12 AM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Press (p) to continue to play, or (q) to quit: 
+May 09, 2019 1:26:12 AM server.ServerCallback SERVER_RESPONDED
+INFO: Server: Press (p) to continue to play, or (q) to quit: 
+May 09, 2019 1:26:15 AM server.ServerCallback CLIENT_DISCONNECTED
+INFO: CLIENT DISCONNECTED: /127.0.0.1 disconnected.
+May 09, 2019 1:26:20 AM server.ServerCallback CLIENT_DISCONNECTED
+INFO: CLIENT DISCONNECTED: /127.0.0.1 disconnected.
+May 09, 2019 1:29:46 AM server.ServerCallback SERVER_STARTED
+INFO: Server started on port 15376
